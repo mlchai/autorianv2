@@ -1,0 +1,8 @@
+*.db
+*.csv
+*/*.txt
+*/*.csv
+.DS_Store
+*/.DS_Store
+*.txt
+sqlite3
